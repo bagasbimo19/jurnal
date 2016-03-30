@@ -27,6 +27,7 @@ public class Jurnal {
             a=fibonacciRecusion(i)+a;
         }
         System.out.println("\njumlah" + a);
+        System.out.println("\nanggap aja kebalik");
     } 
  
     public static int fibonacciRecusion(int number){
